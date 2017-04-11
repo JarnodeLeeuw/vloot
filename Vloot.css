@@ -1,0 +1,38 @@
+body{
+	background-image: url("img/bg.png");
+	font: sans-serif;
+}
+.header{
+	position: static;
+	margin-right: 400px;
+	margin-left: 400px;
+	background-image: url("img/vloot-header.jpg");
+	background-repeat: repeat-y;
+	padding-bottom: 30px;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding-top: 150px;
+}
+li{
+	float: left;
+	display: block;
+	padding: 8px;
+}
+h1, #regeren{
+	padding-left: 8px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.text{
+	background-color: white;
+	margin-right: 400px;
+	margin-left: 400px;
+}
+.top-left{
+	
+}
